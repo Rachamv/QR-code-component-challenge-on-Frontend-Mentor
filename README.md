@@ -47,13 +47,13 @@ ensure that all visitors to this web page are able to enjoy it!
 
 ### Useful resources
 
-- (https://www.w3schools.com) - Learning semantic HTML and responsive CSS.
-- (https://developer.mozilla.org/en-US/) - This is an amazing site with a wide array of knowledge to help any developer.
+- [w3schools](https://www.w3schools.com) - Learning semantic HTML and responsive CSS.
+- [MDN Wed Docs](https://developer.mozilla.org/en-US/) - This is an amazing site with a wide array of knowledge to help any developer.
 
 
 ## Author
 
-- Frontend Mentor - [@Rachamv](https://www.frontendmentor.io/profile/sclingan)
+- Frontend Mentor - [@Rachamv](https://www.frontendmentor.io/profile/rachamv)
 
 
 ## Acknowledgments
